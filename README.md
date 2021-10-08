@@ -10,16 +10,3 @@ The unsupervised POS tagging models do not require pre-tagged corpora. Instead, 
 
 Usage
 python supervised.py 0 ./data/hindi_testing.txt
-
-About
-Part of Speech(POS) - Tagger for HIndi using Hidden Markov Model.
-
-Resources
- Readme
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Python
-100.0%
