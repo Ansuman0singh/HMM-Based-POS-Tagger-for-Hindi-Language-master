@@ -8,5 +8,6 @@ The supervised POS tagging model require a pre-tagged corpora which are used for
 
 The unsupervised POS tagging models do not require pre-tagged corpora. Instead, they use those methods through which automatically tags are assigned to words like the Baum-Welch algorithm to automatically include tag sets, transformation rules etc.
 
-Usage
+Usage:
+
 python supervised.py 0 ./data/hindi_testing.txt
